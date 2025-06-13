@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Olá%2C+eu+sou+SeuNome!&animation=fadeIn&type=waving&color=gradient&height=120" />
 </p>
 
-### 👋 Oi, eu sou [Seu Nome]  
-- 🔭 Atualmente trabalhando em...  
-- 🌱 Apaixonado por...  
-- 💬 Pergunte-me sobre...  
+### 👋 Oi, eu sou Tiago Barboza Santos
+- 🔭 Atualmente trabalhando com foco principal em desenvolvimento back-end utilizando .net.
+- 🌱 Apaixonado por tecnologia
 - 📫 Contato: [LinkedIn], [Email]  
 
 ---
