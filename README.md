@@ -1,8 +1,3 @@
-<!-- Banner/Header animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Olá%2C+eu+sou+Tiago+Barboza+Santos!&animation=fadeIn&type=waving&color=gradient&height=120" />
-</p>
-
 ### 👋 Oi, eu sou Tiago Barboza Santos
 - 🔭 Atualmente trabalhando com foco principal em desenvolvimento back-end utilizando .net.
 - 🌱 Apaixonado por tecnologia
