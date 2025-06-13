@@ -1,6 +1,6 @@
 <!-- Banner/Header animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Olá%2C+eu+sou+SeuNome!&animation=fadeIn&type=waving&color=gradient&height=120" />
+  <img src="https://capsule-render.vercel.app/api?text=Olá%2C+eu+sou+Tiago+Barboza+Santos!&animation=fadeIn&type=waving&color=gradient&height=120" />
 </p>
 
 ### 👋 Oi, eu sou Tiago Barboza Santos
